@@ -1,0 +1,84 @@
+.font-weight-600{font-weight: 600;}
+.text-black{color:black !important;}
+.hireme
+{
+    height: 50vh;
+}
+.service i
+{
+color:#e65f78;
+font-size: 4rem;
+}
+.service:hover .hrl
+{
+    width:30%;
+}
+.hrl
+{
+    background-color: #e65f78;
+    height: 2px;
+    width: 15%;
+    margin: auto;
+    transition: 0.5s all ease;
+}
+.aboutme-icons i{
+    border: 2px solid #d4d4d4;
+    border-radius: 50%;
+    transition: 0.5s all;
+    font-size: 1.2rem;
+}
+.aboutme-icons i:hover
+{
+color:#e65f78;
+border:2px solid #e65f78;
+cursor: pointer;
+}
+.imgdiv
+{
+    padding: 3px;
+    
+    border:1px solid #dee2e6;
+    border-radius: 3px;
+}
+header
+{
+    background-image: url(../images/header-bg.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
+.homeoverlay
+{
+    background-color: rgba(0, 0, 0, 0.69);
+    height: 100%;
+   
+}
+.text-white
+{
+    color:white;
+}
+.dwncv
+{
+    border: 1px solid white;
+    border-radius: 50px;
+    text-transform: uppercase;
+    font-weight: 600;
+    transition: 0.5s all ease;
+}
+.dwncv:hover
+{
+    background-color: white;
+    color:black !important;
+}
+.navbar-light .navbar-nav .nav-link
+{
+    color:white;
+}
+
+.navbar-light .navbar-nav .active > .nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show > .nav-link
+{
+    color:#e65f78 !important;
+}
+.text-pink{
+    color:#e65f78 !important;
+}
