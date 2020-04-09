@@ -1,3 +1,5 @@
+/* marwa's part */
+
 .font-weight-600{font-weight: 600;}
 .text-black{color:black !important;}
 .hireme
@@ -101,9 +103,23 @@ header
     border: 1px solid;
 }
 
+/* marwa's part */
 
-/* Hoda's part */
 
+/* sara ragab part */
+
+.carousel-indicators.custom
+{
+    background-color:#e65f78;
+    width: 20px;
+    height:6px ;
+}
+.carousel-indicators.active
+{
+    width: 20px;
+}
+
+/* sara ragab part */
 
 
 /* Hoda's part */
